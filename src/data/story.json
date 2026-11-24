@@ -1,0 +1,1477 @@
+{
+  "version": 1,
+  "title": "Batman: Death in the Family",
+  "year": 2020,
+  "start": "scene-opening",
+  "source": {
+    "disc": "PAL DVD-Video (VIDEO_TS), 2 title sets",
+    "navigation": "Derived by scripts/dvd/explore.py (DVD VM emulation from First Play)",
+    "labels": "Translated from the disc's Russian on-screen menu text (scripts/story/labels.json)",
+    "audio": "English AC-3 5.1 (stream 0x81) downmixed to AAC stereo"
+  },
+  "clips": {
+    "scene-opening": {
+      "id": "scene-opening",
+      "src": "/media/video/scene-opening.mp4",
+      "poster": "/media/posters/scene-opening.jpg",
+      "duration": 504.2,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 0,
+        "lastSector": 236856,
+        "cells": [
+          "vob1/cell1",
+          "vob1/cell2"
+        ],
+        "dvdNode": "TT1_PGC2"
+      }
+    },
+    "decision-1": {
+      "id": "decision-1",
+      "src": "/media/video/decision-1.mp4",
+      "poster": "/media/posters/decision-1.jpg",
+      "duration": 28.24,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 75856,
+        "lastSector": 91550,
+        "cells": [
+          "vob8/cell1",
+          "vob8/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC10"
+      }
+    },
+    "decision-1-robin-cheats-death-stinger": {
+      "id": "decision-1-robin-cheats-death-stinger",
+      "src": "/media/video/decision-1-robin-cheats-death-stinger.mp4",
+      "poster": "/media/posters/decision-1-robin-cheats-death-stinger.jpg",
+      "duration": 6.32,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 236857,
+        "lastSector": 240695,
+        "cells": [
+          "vob2/cell1"
+        ],
+        "dvdNode": "TT1_PGC3"
+      }
+    },
+    "decision-1-batman-saves-robin-stinger": {
+      "id": "decision-1-batman-saves-robin-stinger",
+      "src": "/media/video/decision-1-batman-saves-robin-stinger.mp4",
+      "poster": "/media/posters/decision-1-batman-saves-robin-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 429326,
+        "lastSector": 432580,
+        "cells": [
+          "vob5/cell1"
+        ],
+        "dvdNode": "TT1_PGC5"
+      }
+    },
+    "decision-1-robin-dies-stinger": {
+      "id": "decision-1-robin-dies-stinger",
+      "src": "/media/video/decision-1-robin-dies-stinger.mp4",
+      "poster": "/media/posters/decision-1-robin-dies-stinger.jpg",
+      "duration": 6.24,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 425537,
+        "lastSector": 429325,
+        "cells": [
+          "vob4/cell1"
+        ],
+        "dvdNode": "TT1_PGC4"
+      }
+    },
+    "scene-decision-1-robin-cheats-death": {
+      "id": "scene-decision-1-robin-cheats-death",
+      "src": "/media/video/scene-decision-1-robin-cheats-death.mp4",
+      "poster": "/media/posters/scene-decision-1-robin-cheats-death.jpg",
+      "duration": 397.6,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 240696,
+        "lastSector": 425536,
+        "cells": [
+          "vob3/cell1"
+        ],
+        "dvdNode": "TT1_PGC3"
+      }
+    },
+    "credits-roll-1": {
+      "id": "credits-roll-1",
+      "src": "/media/video/credits-roll-1.mp4",
+      "poster": "/media/posters/credits-roll-1.jpg",
+      "duration": 148.28,
+      "source": {
+        "vts": 2,
+        "vob": "title",
+        "firstSector": 0,
+        "lastSector": 68802,
+        "cells": [
+          "vob1/cell1"
+        ],
+        "dvdNode": "TT2_PGC2"
+      }
+    },
+    "credits-tail": {
+      "id": "credits-tail",
+      "src": "/media/video/credits-tail.mp4",
+      "poster": "/media/posters/credits-tail.jpg",
+      "duration": 20.68,
+      "source": {
+        "vts": 2,
+        "vob": "title",
+        "firstSector": 264586,
+        "lastSector": 276000,
+        "cells": [
+          "vob5/cell1"
+        ],
+        "dvdNode": "TT2_PGC8"
+      }
+    },
+    "scene-decision-1-batman-saves-robin": {
+      "id": "scene-decision-1-batman-saves-robin",
+      "src": "/media/video/scene-decision-1-batman-saves-robin.mp4",
+      "poster": "/media/posters/scene-decision-1-batman-saves-robin.jpg",
+      "duration": 117.28,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 432581,
+        "lastSector": 487071,
+        "cells": [
+          "vob6/cell1"
+        ],
+        "dvdNode": "TT1_PGC5"
+      }
+    },
+    "decision-2": {
+      "id": "decision-2",
+      "src": "/media/video/decision-2.mp4",
+      "poster": "/media/posters/decision-2.jpg",
+      "duration": 26.92,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 60680,
+        "lastSector": 75855,
+        "cells": [
+          "vob7/cell1",
+          "vob7/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC9"
+      }
+    },
+    "decision-2-catch-the-joker-stinger": {
+      "id": "decision-2-catch-the-joker-stinger",
+      "src": "/media/video/decision-2-catch-the-joker-stinger.mp4",
+      "poster": "/media/posters/decision-2-catch-the-joker-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 619353,
+        "lastSector": 622607,
+        "cells": [
+          "vob9/cell1"
+        ],
+        "dvdNode": "TT1_PGC7"
+      }
+    },
+    "decision-2-kill-the-joker-stinger": {
+      "id": "decision-2-kill-the-joker-stinger",
+      "src": "/media/video/decision-2-kill-the-joker-stinger.mp4",
+      "poster": "/media/posters/decision-2-kill-the-joker-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 487072,
+        "lastSector": 490326,
+        "cells": [
+          "vob7/cell1"
+        ],
+        "dvdNode": "TT1_PGC6"
+      }
+    },
+    "scene-decision-2-catch-the-joker": {
+      "id": "scene-decision-2-catch-the-joker",
+      "src": "/media/video/scene-decision-2-catch-the-joker.mp4",
+      "poster": "/media/posters/scene-decision-2-catch-the-joker.jpg",
+      "duration": 429.48,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 622608,
+        "lastSector": 822252,
+        "cells": [
+          "vob10/cell1"
+        ],
+        "dvdNode": "TT1_PGC7"
+      }
+    },
+    "decision-3": {
+      "id": "decision-3",
+      "src": "/media/video/decision-3.mp4",
+      "poster": "/media/posters/decision-3.jpg",
+      "duration": 26.84,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 45549,
+        "lastSector": 60679,
+        "cells": [
+          "vob6/cell1",
+          "vob6/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC8"
+      }
+    },
+    "decision-3-spare-the-joker-stinger": {
+      "id": "decision-3-spare-the-joker-stinger",
+      "src": "/media/video/decision-3-spare-the-joker-stinger.mp4",
+      "poster": "/media/posters/decision-3-spare-the-joker-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 822253,
+        "lastSector": 825507,
+        "cells": [
+          "vob11/cell1"
+        ],
+        "dvdNode": "TT1_PGC8"
+      }
+    },
+    "decision-3-kill-the-joker-stinger": {
+      "id": "decision-3-kill-the-joker-stinger",
+      "src": "/media/video/decision-3-kill-the-joker-stinger.mp4",
+      "poster": "/media/posters/decision-3-kill-the-joker-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 909320,
+        "lastSector": 912574,
+        "cells": [
+          "vob13/cell1"
+        ],
+        "dvdNode": "TT1_PGC9"
+      }
+    },
+    "scene-decision-3-spare-the-joker": {
+      "id": "scene-decision-3-spare-the-joker",
+      "src": "/media/video/scene-decision-3-spare-the-joker.mp4",
+      "poster": "/media/posters/scene-decision-3-spare-the-joker.jpg",
+      "duration": 180.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 825508,
+        "lastSector": 909319,
+        "cells": [
+          "vob12/cell1"
+        ],
+        "dvdNode": "TT1_PGC8"
+      }
+    },
+    "decision-4": {
+      "id": "decision-4",
+      "src": "/media/video/decision-4.mp4",
+      "poster": "/media/posters/decision-4.jpg",
+      "duration": 26.88,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 30395,
+        "lastSector": 45548,
+        "cells": [
+          "vob5/cell1",
+          "vob5/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC7"
+      }
+    },
+    "decision-4-life-stinger": {
+      "id": "decision-4-life-stinger",
+      "src": "/media/video/decision-4-life-stinger.mp4",
+      "poster": "/media/posters/decision-4-life-stinger.jpg",
+      "duration": 5.4,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1812387,
+        "lastSector": 1815665,
+        "cells": [
+          "vob26/cell1"
+        ],
+        "dvdNode": "TT1_PGC16"
+      }
+    },
+    "decision-4-death-stinger": {
+      "id": "decision-4-death-stinger",
+      "src": "/media/video/decision-4-death-stinger.mp4",
+      "poster": "/media/posters/decision-4-death-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1001959,
+        "lastSector": 1005213,
+        "cells": [
+          "vob15/cell1"
+        ],
+        "dvdNode": "TT1_PGC10"
+      }
+    },
+    "scene-decision-4-life": {
+      "id": "scene-decision-4-life",
+      "src": "/media/video/scene-decision-4-life.mp4",
+      "poster": "/media/posters/scene-decision-4-life.jpg",
+      "duration": 163.76,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1815666,
+        "lastSector": 1891785,
+        "cells": [
+          "vob27/cell1"
+        ],
+        "dvdNode": "TT1_PGC16"
+      }
+    },
+    "credits-roll-2": {
+      "id": "credits-roll-2",
+      "src": "/media/video/credits-roll-2.mp4",
+      "poster": "/media/posters/credits-roll-2.jpg",
+      "duration": 148.28,
+      "source": {
+        "vts": 2,
+        "vob": "title",
+        "firstSector": 68803,
+        "lastSector": 137611,
+        "cells": [
+          "vob2/cell1"
+        ],
+        "dvdNode": "TT2_PGC3"
+      }
+    },
+    "scene-decision-4-death": {
+      "id": "scene-decision-4-death",
+      "src": "/media/video/scene-decision-4-death.mp4",
+      "poster": "/media/posters/scene-decision-4-death.jpg",
+      "duration": 86.16,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1005214,
+        "lastSector": 1045219,
+        "cells": [
+          "vob16/cell1"
+        ],
+        "dvdNode": "TT1_PGC10"
+      }
+    },
+    "scene-decision-3-kill-the-joker": {
+      "id": "scene-decision-3-kill-the-joker",
+      "src": "/media/video/scene-decision-3-kill-the-joker.mp4",
+      "poster": "/media/posters/scene-decision-3-kill-the-joker.jpg",
+      "duration": 192.44,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 912575,
+        "lastSector": 1001958,
+        "cells": [
+          "vob14/cell1"
+        ],
+        "dvdNode": "TT1_PGC9"
+      }
+    },
+    "scene-decision-2-kill-the-joker": {
+      "id": "scene-decision-2-kill-the-joker",
+      "src": "/media/video/scene-decision-2-kill-the-joker.mp4",
+      "poster": "/media/posters/scene-decision-2-kill-the-joker.jpg",
+      "duration": 277.44,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 490327,
+        "lastSector": 619352,
+        "cells": [
+          "vob8/cell1"
+        ],
+        "dvdNode": "TT1_PGC6"
+      }
+    },
+    "decision-5": {
+      "id": "decision-5",
+      "src": "/media/video/decision-5.mp4",
+      "poster": "/media/posters/decision-5.jpg",
+      "duration": 26.92,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 15220,
+        "lastSector": 30394,
+        "cells": [
+          "vob4/cell1",
+          "vob4/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC6"
+      }
+    },
+    "decision-5-surrender-stinger": {
+      "id": "decision-5-surrender-stinger",
+      "src": "/media/video/decision-5-surrender-stinger.mp4",
+      "poster": "/media/posters/decision-5-surrender-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1045220,
+        "lastSector": 1048474,
+        "cells": [
+          "vob17/cell1"
+        ],
+        "dvdNode": "TT1_PGC11"
+      }
+    },
+    "decision-5-attack-stinger": {
+      "id": "decision-5-attack-stinger",
+      "src": "/media/video/decision-5-attack-stinger.mp4",
+      "poster": "/media/posters/decision-5-attack-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1063349,
+        "lastSector": 1066603,
+        "cells": [
+          "vob19/cell1"
+        ],
+        "dvdNode": "TT1_PGC12"
+      }
+    },
+    "scene-decision-5-surrender": {
+      "id": "scene-decision-5-surrender",
+      "src": "/media/video/scene-decision-5-surrender.mp4",
+      "poster": "/media/posters/scene-decision-5-surrender.jpg",
+      "duration": 32.0,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1048475,
+        "lastSector": 1063348,
+        "cells": [
+          "vob18/cell1"
+        ],
+        "dvdNode": "TT1_PGC11"
+      }
+    },
+    "credits-roll-3": {
+      "id": "credits-roll-3",
+      "src": "/media/video/credits-roll-3.mp4",
+      "poster": "/media/posters/credits-roll-3.jpg",
+      "duration": 148.28,
+      "source": {
+        "vts": 2,
+        "vob": "title",
+        "firstSector": 137612,
+        "lastSector": 205628,
+        "cells": [
+          "vob3/cell1"
+        ],
+        "dvdNode": "TT2_PGC5"
+      }
+    },
+    "scene-decision-5-attack": {
+      "id": "scene-decision-5-attack",
+      "src": "/media/video/scene-decision-5-attack.mp4",
+      "poster": "/media/posters/scene-decision-5-attack.jpg",
+      "duration": 216.2,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1066604,
+        "lastSector": 1167138,
+        "cells": [
+          "vob20/cell1"
+        ],
+        "dvdNode": "TT1_PGC12"
+      }
+    },
+    "decision-6": {
+      "id": "decision-6",
+      "src": "/media/video/decision-6.mp4",
+      "poster": "/media/posters/decision-6.jpg",
+      "duration": 26.84,
+      "source": {
+        "vts": 2,
+        "vob": "menu",
+        "firstSector": 88,
+        "lastSector": 15219,
+        "cells": [
+          "vob3/cell1",
+          "vob3/cell2"
+        ],
+        "dvdNode": "VTSM2_PGC5"
+      }
+    },
+    "decision-6-the-unscarred-coin-stinger": {
+      "id": "decision-6-the-unscarred-coin-stinger",
+      "src": "/media/video/decision-6-the-unscarred-coin-stinger.mp4",
+      "poster": "/media/posters/decision-6-the-unscarred-coin-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1167139,
+        "lastSector": 1170393,
+        "cells": [
+          "vob21/cell1"
+        ],
+        "dvdNode": "TT1_PGC13"
+      }
+    },
+    "decision-6-the-scarred-coin-stinger": {
+      "id": "decision-6-the-scarred-coin-stinger",
+      "src": "/media/video/decision-6-the-scarred-coin-stinger.mp4",
+      "poster": "/media/posters/decision-6-the-scarred-coin-stinger.jpg",
+      "duration": 5.36,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1236106,
+        "lastSector": 1239360,
+        "cells": [
+          "vob23/cell1"
+        ],
+        "dvdNode": "TT1_PGC14"
+      }
+    },
+    "scene-decision-6-the-unscarred-coin": {
+      "id": "scene-decision-6-the-unscarred-coin",
+      "src": "/media/video/scene-decision-6-the-unscarred-coin.mp4",
+      "poster": "/media/posters/scene-decision-6-the-unscarred-coin.jpg",
+      "duration": 141.32,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1170394,
+        "lastSector": 1236105,
+        "cells": [
+          "vob22/cell1"
+        ],
+        "dvdNode": "TT1_PGC13"
+      }
+    },
+    "credits-roll-4": {
+      "id": "credits-roll-4",
+      "src": "/media/video/credits-roll-4.mp4",
+      "poster": "/media/posters/credits-roll-4.jpg",
+      "duration": 148.28,
+      "source": {
+        "vts": 2,
+        "vob": "title",
+        "firstSector": 205629,
+        "lastSector": 264585,
+        "cells": [
+          "vob4/cell1"
+        ],
+        "dvdNode": "TT2_PGC6"
+      }
+    },
+    "scene-decision-6-the-scarred-coin": {
+      "id": "scene-decision-6-the-scarred-coin",
+      "src": "/media/video/scene-decision-6-the-scarred-coin.mp4",
+      "poster": "/media/posters/scene-decision-6-the-scarred-coin.jpg",
+      "duration": 88.72,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1239361,
+        "lastSector": 1280600,
+        "cells": [
+          "vob24/cell1"
+        ],
+        "dvdNode": "TT1_PGC14"
+      }
+    },
+    "scene-decision-1-robin-dies": {
+      "id": "scene-decision-1-robin-dies",
+      "src": "/media/video/scene-decision-1-robin-dies.mp4",
+      "poster": "/media/posters/scene-decision-1-robin-dies.jpg",
+      "duration": 1131.48,
+      "source": {
+        "vts": 1,
+        "vob": "title",
+        "firstSector": 1280601,
+        "lastSector": 1812386,
+        "cells": [
+          "vob25/cell1"
+        ],
+        "dvdNode": "TT1_PGC4"
+      }
+    }
+  },
+  "scenes": {
+    "scene-opening": {
+      "id": "scene-opening",
+      "type": "segment",
+      "title": "Opening",
+      "clip": "scene-opening",
+      "next": "decision-1",
+      "dvd": {
+        "node": "TT1_PGC2",
+        "cells": [
+          "vob1/cell1",
+          "vob1/cell2"
+        ]
+      }
+    },
+    "decision-1": {
+      "id": "decision-1",
+      "type": "decision",
+      "index": 1,
+      "title": "Robin will die.",
+      "prompt": "Because the Joker wants revenge. But you can save him.",
+      "original": {
+        "title": "Робин умрёт.",
+        "prompt": "Потому что Джокер хочет отомстить. Но вы можете спасти его."
+      },
+      "clip": "decision-1",
+      "activeFrom": 10.2,
+      "timeout": 28.24,
+      "defaultChoice": "decision-1-batman-saves-robin",
+      "choices": [
+        {
+          "id": "decision-1-robin-cheats-death",
+          "label": "Robin cheats death.",
+          "original": "Робин обманет смерть.",
+          "direction": "left",
+          "stingerClip": "decision-1-robin-cheats-death-stinger",
+          "target": "scene-decision-1-robin-cheats-death",
+          "isDefault": false,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              275,
+              312,
+              301,
+              380
+            ],
+            "command": "JumpSS VMGM (pgc 48)",
+            "destination": "TT1_PGC3"
+          }
+        },
+        {
+          "id": "decision-1-batman-saves-robin",
+          "label": "Batman saves Robin.",
+          "original": "Бэтмен спасёт Робина.",
+          "direction": "right",
+          "stingerClip": "decision-1-batman-saves-robin-stinger",
+          "target": "scene-decision-1-batman-saves-robin",
+          "isDefault": true,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              417,
+              312,
+              443,
+              380
+            ],
+            "command": "JumpSS VMGM (pgc 49)",
+            "destination": "TT1_PGC5"
+          }
+        },
+        {
+          "id": "decision-1-robin-dies",
+          "label": "Robin dies.",
+          "original": "Робин умрёт.",
+          "direction": "down",
+          "stingerClip": "decision-1-robin-dies-stinger",
+          "target": "scene-decision-1-robin-dies",
+          "isDefault": false,
+          "dvd": {
+            "button": 4,
+            "rect": [
+              337,
+              425,
+              385,
+              461
+            ],
+            "command": "JumpSS VMGM (pgc 47)",
+            "destination": "TT1_PGC4"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC10"
+      }
+    },
+    "scene-decision-1-robin-cheats-death": {
+      "id": "scene-decision-1-robin-cheats-death",
+      "type": "segment",
+      "title": "Robin cheats death.",
+      "clip": "scene-decision-1-robin-cheats-death",
+      "next": "ending-1-credits",
+      "dvd": {
+        "node": "TT1_PGC3",
+        "cells": [
+          "vob3/cell1"
+        ]
+      },
+      "endingId": "ending-1"
+    },
+    "ending-1-credits": {
+      "id": "ending-1-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-1",
+      "next": "ending-1-tail",
+      "endingId": "ending-1",
+      "dvd": {
+        "node": "TT2_PGC2"
+      }
+    },
+    "ending-1-tail": {
+      "id": "ending-1-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-1",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-1-batman-saves-robin": {
+      "id": "scene-decision-1-batman-saves-robin",
+      "type": "segment",
+      "title": "Batman saves Robin.",
+      "clip": "scene-decision-1-batman-saves-robin",
+      "next": "decision-2",
+      "dvd": {
+        "node": "TT1_PGC5",
+        "cells": [
+          "vob6/cell1"
+        ]
+      }
+    },
+    "decision-2": {
+      "id": "decision-2",
+      "type": "decision",
+      "index": 2,
+      "title": "Batman is dead.",
+      "prompt": "He left Robin at a crossroads. But you can guide him down the right path.",
+      "original": {
+        "title": "Бэтмен умер",
+        "prompt": "Оставив Робина на распутье. Но вы можете направить его по правильному пути."
+      },
+      "clip": "decision-2",
+      "activeFrom": 9.0,
+      "timeout": 26.92,
+      "defaultChoice": "decision-2-kill-the-joker",
+      "choices": [
+        {
+          "id": "decision-2-catch-the-joker",
+          "label": "Catch the Joker.",
+          "original": "Поймать Джокера.",
+          "direction": "left",
+          "stingerClip": "decision-2-catch-the-joker-stinger",
+          "target": "scene-decision-2-catch-the-joker",
+          "isDefault": false,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              275,
+              351,
+              301,
+              419
+            ],
+            "command": "JumpSS VMGM (pgc 41)",
+            "destination": "TT1_PGC7"
+          }
+        },
+        {
+          "id": "decision-2-kill-the-joker",
+          "label": "Kill the Joker.",
+          "original": "Убить Джокера.",
+          "direction": "right",
+          "stingerClip": "decision-2-kill-the-joker-stinger",
+          "target": "scene-decision-2-kill-the-joker",
+          "isDefault": true,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              417,
+              351,
+              443,
+              419
+            ],
+            "command": "JumpSS VMGM (pgc 42)",
+            "destination": "TT1_PGC6"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC9"
+      }
+    },
+    "scene-decision-2-catch-the-joker": {
+      "id": "scene-decision-2-catch-the-joker",
+      "type": "segment",
+      "title": "Catch the Joker.",
+      "clip": "scene-decision-2-catch-the-joker",
+      "next": "decision-3",
+      "dvd": {
+        "node": "TT1_PGC7",
+        "cells": [
+          "vob10/cell1"
+        ]
+      }
+    },
+    "decision-3": {
+      "id": "decision-3",
+      "type": "decision",
+      "index": 3,
+      "title": "The Joker will die.",
+      "prompt": "Because the Red Hood wants revenge. But you can save him.",
+      "original": {
+        "title": "Джокер умрёт",
+        "prompt": "Потому что Красный Колпак хочет мести. Но вы можете спасти его."
+      },
+      "clip": "decision-3",
+      "activeFrom": 9.0,
+      "timeout": 26.84,
+      "defaultChoice": "decision-3-spare-the-joker",
+      "choices": [
+        {
+          "id": "decision-3-spare-the-joker",
+          "label": "Spare the Joker.",
+          "original": "Пощадить Джокера.",
+          "direction": "left",
+          "stingerClip": "decision-3-spare-the-joker-stinger",
+          "target": "scene-decision-3-spare-the-joker",
+          "isDefault": true,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              277,
+              347,
+              303,
+              415
+            ],
+            "command": "JumpSS VMGM (pgc 36)",
+            "destination": "TT1_PGC8"
+          }
+        },
+        {
+          "id": "decision-3-kill-the-joker",
+          "label": "Kill the Joker.",
+          "original": "Убить Джокера.",
+          "direction": "right",
+          "stingerClip": "decision-3-kill-the-joker-stinger",
+          "target": "scene-decision-3-kill-the-joker",
+          "isDefault": false,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              415,
+              346,
+              441,
+              414
+            ],
+            "command": "JumpSS VMGM (pgc 37)",
+            "destination": "TT1_PGC9"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC8"
+      }
+    },
+    "scene-decision-3-spare-the-joker": {
+      "id": "scene-decision-3-spare-the-joker",
+      "type": "segment",
+      "title": "Spare the Joker.",
+      "clip": "scene-decision-3-spare-the-joker",
+      "next": "decision-4",
+      "dvd": {
+        "node": "TT1_PGC8",
+        "cells": [
+          "vob12/cell1"
+        ]
+      }
+    },
+    "decision-4": {
+      "id": "decision-4",
+      "type": "decision",
+      "index": 4,
+      "title": "Save Batman.",
+      "prompt": "The Red Hood must fight him in a battle to the death.",
+      "original": {
+        "title": "Спасти Бэтмена",
+        "prompt": "Красный Колпак должен сразиться с ним в битве не на жизнь, а на смерть."
+      },
+      "clip": "decision-4",
+      "activeFrom": 8.4,
+      "timeout": 26.88,
+      "defaultChoice": "decision-4-death",
+      "choices": [
+        {
+          "id": "decision-4-life",
+          "label": "Life.",
+          "original": "Жизнь.",
+          "direction": "left",
+          "stingerClip": "decision-4-life-stinger",
+          "target": "scene-decision-4-life",
+          "isDefault": false,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              277,
+              347,
+              303,
+              415
+            ],
+            "command": "JumpSS VMGM (pgc 32)",
+            "destination": "TT1_PGC16"
+          }
+        },
+        {
+          "id": "decision-4-death",
+          "label": "Death.",
+          "original": "Смерть.",
+          "direction": "right",
+          "stingerClip": "decision-4-death-stinger",
+          "target": "scene-decision-4-death",
+          "isDefault": true,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              415,
+              346,
+              441,
+              414
+            ],
+            "command": "JumpSS VMGM (pgc 33)",
+            "destination": "TT1_PGC10"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC7"
+      }
+    },
+    "scene-decision-4-life": {
+      "id": "scene-decision-4-life",
+      "type": "segment",
+      "title": "Life.",
+      "clip": "scene-decision-4-life",
+      "next": "ending-2-credits",
+      "dvd": {
+        "node": "TT1_PGC16",
+        "cells": [
+          "vob27/cell1"
+        ]
+      },
+      "endingId": "ending-2"
+    },
+    "ending-2-credits": {
+      "id": "ending-2-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-2",
+      "next": "ending-2-tail",
+      "endingId": "ending-2",
+      "dvd": {
+        "node": "TT2_PGC3"
+      }
+    },
+    "ending-2-tail": {
+      "id": "ending-2-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-2",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-4-death": {
+      "id": "scene-decision-4-death",
+      "type": "segment",
+      "title": "Death.",
+      "clip": "scene-decision-4-death",
+      "next": "ending-3-credits",
+      "dvd": {
+        "node": "TT1_PGC10",
+        "cells": [
+          "vob16/cell1"
+        ]
+      },
+      "endingId": "ending-3"
+    },
+    "ending-3-credits": {
+      "id": "ending-3-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-2",
+      "next": "ending-3-tail",
+      "endingId": "ending-3",
+      "dvd": {
+        "node": "TT2_PGC4"
+      }
+    },
+    "ending-3-tail": {
+      "id": "ending-3-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-3",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-3-kill-the-joker": {
+      "id": "scene-decision-3-kill-the-joker",
+      "type": "segment",
+      "title": "Kill the Joker.",
+      "clip": "scene-decision-3-kill-the-joker",
+      "next": "decision-4",
+      "dvd": {
+        "node": "TT1_PGC9",
+        "cells": [
+          "vob14/cell1"
+        ]
+      }
+    },
+    "scene-decision-2-kill-the-joker": {
+      "id": "scene-decision-2-kill-the-joker",
+      "type": "segment",
+      "title": "Kill the Joker.",
+      "clip": "scene-decision-2-kill-the-joker",
+      "next": "decision-5",
+      "dvd": {
+        "node": "TT1_PGC6",
+        "cells": [
+          "vob8/cell1"
+        ]
+      }
+    },
+    "decision-5": {
+      "id": "decision-5",
+      "type": "decision",
+      "index": 5,
+      "title": "The Joker is dead.",
+      "prompt": "Because Jason wanted revenge. But you can bring him to justice.",
+      "original": {
+        "title": "Джокер умер",
+        "prompt": "Потому что Джейсон хотел отомстить. Но вы можете привлечь его к ответственности."
+      },
+      "clip": "decision-5",
+      "activeFrom": 8.4,
+      "timeout": 26.92,
+      "defaultChoice": "decision-5-attack",
+      "choices": [
+        {
+          "id": "decision-5-surrender",
+          "label": "Surrender.",
+          "original": "Сдаться.",
+          "direction": "left",
+          "stingerClip": "decision-5-surrender-stinger",
+          "target": "scene-decision-5-surrender",
+          "isDefault": false,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              275,
+              351,
+              301,
+              419
+            ],
+            "command": "JumpSS VMGM (pgc 28)",
+            "destination": "TT1_PGC11"
+          }
+        },
+        {
+          "id": "decision-5-attack",
+          "label": "Attack.",
+          "original": "Напасть.",
+          "direction": "right",
+          "stingerClip": "decision-5-attack-stinger",
+          "target": "scene-decision-5-attack",
+          "isDefault": true,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              417,
+              350,
+              443,
+              418
+            ],
+            "command": "JumpSS VMGM (pgc 29)",
+            "destination": "TT1_PGC12"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC6"
+      }
+    },
+    "scene-decision-5-surrender": {
+      "id": "scene-decision-5-surrender",
+      "type": "segment",
+      "title": "Surrender.",
+      "clip": "scene-decision-5-surrender",
+      "next": "ending-4-credits",
+      "dvd": {
+        "node": "TT1_PGC11",
+        "cells": [
+          "vob18/cell1"
+        ]
+      },
+      "endingId": "ending-4"
+    },
+    "ending-4-credits": {
+      "id": "ending-4-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-3",
+      "next": "ending-4-tail",
+      "endingId": "ending-4",
+      "dvd": {
+        "node": "TT2_PGC5"
+      }
+    },
+    "ending-4-tail": {
+      "id": "ending-4-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-4",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-5-attack": {
+      "id": "scene-decision-5-attack",
+      "type": "segment",
+      "title": "Attack.",
+      "clip": "scene-decision-5-attack",
+      "next": "decision-6",
+      "dvd": {
+        "node": "TT1_PGC12",
+        "cells": [
+          "vob20/cell1"
+        ]
+      }
+    },
+    "decision-6": {
+      "id": "decision-6",
+      "type": "decision",
+      "index": 6,
+      "title": "Red Robin will die.",
+      "prompt": "In Two-Face's gamble. But you can choose the coin.",
+      "original": {
+        "title": "Красный Робин умрёт",
+        "prompt": "В азартной игре Двуликого. Но ты можешь выбрать монету"
+      },
+      "clip": "decision-6",
+      "activeFrom": 8.4,
+      "timeout": 26.84,
+      "defaultChoice": "decision-6-the-scarred-coin",
+      "choices": [
+        {
+          "id": "decision-6-the-unscarred-coin",
+          "label": "The unscarred coin.",
+          "original": "(левая монета — без шрамов)",
+          "direction": "left",
+          "stingerClip": "decision-6-the-unscarred-coin-stinger",
+          "target": "scene-decision-6-the-unscarred-coin",
+          "isDefault": false,
+          "dvd": {
+            "button": 3,
+            "rect": [
+              275,
+              351,
+              301,
+              419
+            ],
+            "command": "JumpSS VMGM (pgc 23)",
+            "destination": "TT1_PGC13"
+          }
+        },
+        {
+          "id": "decision-6-the-scarred-coin",
+          "label": "The scarred coin.",
+          "original": "(правая монета — со шрамами)",
+          "direction": "right",
+          "stingerClip": "decision-6-the-scarred-coin-stinger",
+          "target": "scene-decision-6-the-scarred-coin",
+          "isDefault": true,
+          "dvd": {
+            "button": 2,
+            "rect": [
+              417,
+              350,
+              443,
+              418
+            ],
+            "command": "JumpSS VMGM (pgc 24)",
+            "destination": "TT1_PGC14"
+          }
+        }
+      ],
+      "dvd": {
+        "node": "VTSM2_PGC5"
+      }
+    },
+    "scene-decision-6-the-unscarred-coin": {
+      "id": "scene-decision-6-the-unscarred-coin",
+      "type": "segment",
+      "title": "The unscarred coin.",
+      "clip": "scene-decision-6-the-unscarred-coin",
+      "next": "ending-5-credits",
+      "dvd": {
+        "node": "TT1_PGC13",
+        "cells": [
+          "vob22/cell1"
+        ]
+      },
+      "endingId": "ending-5"
+    },
+    "ending-5-credits": {
+      "id": "ending-5-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-4",
+      "next": "ending-5-tail",
+      "endingId": "ending-5",
+      "dvd": {
+        "node": "TT2_PGC6"
+      }
+    },
+    "ending-5-tail": {
+      "id": "ending-5-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-5",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-6-the-scarred-coin": {
+      "id": "scene-decision-6-the-scarred-coin",
+      "type": "segment",
+      "title": "The scarred coin.",
+      "clip": "scene-decision-6-the-scarred-coin",
+      "next": "ending-6-credits",
+      "dvd": {
+        "node": "TT1_PGC14",
+        "cells": [
+          "vob24/cell1"
+        ]
+      },
+      "endingId": "ending-6"
+    },
+    "ending-6-credits": {
+      "id": "ending-6-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-4",
+      "next": "ending-6-tail",
+      "endingId": "ending-6",
+      "dvd": {
+        "node": "TT2_PGC7"
+      }
+    },
+    "ending-6-tail": {
+      "id": "ending-6-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-6",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    },
+    "scene-decision-1-robin-dies": {
+      "id": "scene-decision-1-robin-dies",
+      "type": "segment",
+      "title": "Robin dies.",
+      "clip": "scene-decision-1-robin-dies",
+      "next": "ending-7-credits",
+      "dvd": {
+        "node": "TT1_PGC4",
+        "cells": [
+          "vob25/cell1"
+        ]
+      },
+      "endingId": "ending-7"
+    },
+    "ending-7-credits": {
+      "id": "ending-7-credits",
+      "type": "credits",
+      "title": "End credits",
+      "clip": "credits-roll-1",
+      "next": "ending-7-tail",
+      "endingId": "ending-7",
+      "dvd": {
+        "node": "TT2_PGC2"
+      }
+    },
+    "ending-7-tail": {
+      "id": "ending-7-tail",
+      "type": "credits",
+      "title": "Finale",
+      "clip": "credits-tail",
+      "next": null,
+      "endingId": "ending-7",
+      "dvd": {
+        "node": "TT2_PGC8"
+      }
+    }
+  },
+  "decisions": [
+    "decision-1",
+    "decision-2",
+    "decision-3",
+    "decision-4",
+    "decision-5",
+    "decision-6"
+  ],
+  "endings": [
+    {
+      "id": "ending-1",
+      "number": 1,
+      "title": "Robin cheats death",
+      "scene": "scene-decision-1-robin-cheats-death",
+      "credits": [
+        "ending-1-credits",
+        "ending-1-tail"
+      ],
+      "path": [
+        "decision-1-robin-cheats-death"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-2",
+      "number": 2,
+      "title": "Life",
+      "scene": "scene-decision-4-life",
+      "credits": [
+        "ending-2-credits",
+        "ending-2-tail"
+      ],
+      "path": [
+        "decision-1-batman-saves-robin",
+        "decision-2-catch-the-joker",
+        "decision-3-spare-the-joker",
+        "decision-4-life"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-3",
+      "number": 3,
+      "title": "Death",
+      "scene": "scene-decision-4-death",
+      "credits": [
+        "ending-3-credits",
+        "ending-3-tail"
+      ],
+      "path": [
+        "decision-1-batman-saves-robin",
+        "decision-2-catch-the-joker",
+        "decision-3-spare-the-joker",
+        "decision-4-death"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-4",
+      "number": 4,
+      "title": "Surrender",
+      "scene": "scene-decision-5-surrender",
+      "credits": [
+        "ending-4-credits",
+        "ending-4-tail"
+      ],
+      "path": [
+        "decision-1-batman-saves-robin",
+        "decision-2-kill-the-joker",
+        "decision-5-surrender"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-5",
+      "number": 5,
+      "title": "The unscarred coin",
+      "scene": "scene-decision-6-the-unscarred-coin",
+      "credits": [
+        "ending-5-credits",
+        "ending-5-tail"
+      ],
+      "path": [
+        "decision-1-batman-saves-robin",
+        "decision-2-kill-the-joker",
+        "decision-5-attack",
+        "decision-6-the-unscarred-coin"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-6",
+      "number": 6,
+      "title": "The scarred coin",
+      "scene": "scene-decision-6-the-scarred-coin",
+      "credits": [
+        "ending-6-credits",
+        "ending-6-tail"
+      ],
+      "path": [
+        "decision-1-batman-saves-robin",
+        "decision-2-kill-the-joker",
+        "decision-5-attack",
+        "decision-6-the-scarred-coin"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    },
+    {
+      "id": "ending-7",
+      "number": 7,
+      "title": "Robin dies",
+      "scene": "scene-decision-1-robin-dies",
+      "credits": [
+        "ending-7-credits",
+        "ending-7-tail"
+      ],
+      "path": [
+        "decision-1-robin-dies"
+      ],
+      "returnsTo": "VTSM2_PGC15"
+    }
+  ]
+}

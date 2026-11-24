@@ -1,0 +1,21 @@
+# dependencies / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# original DVD files and processed media (large, personal copies - never commit)
+movie files/
+*.VOB
+*.IFO
+*.BUP
+public/media/
+analysis/media_build.log
+analysis/ffbin.txt
+
+# misc
+.DS_Store
+*.log
+.env*
+__pycache__/

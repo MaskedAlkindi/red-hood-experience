@@ -1,0 +1,669 @@
+{
+ "ok": true,
+ "clips": [
+  {
+   "id": "scene-opening",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 56.48308972204931,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -0.2,
+   "frames": 12605,
+   "expectedFrames": 12605
+  },
+  {
+   "id": "decision-1",
+   "ok": true,
+   "notes": [
+    "IFO time implies 706 frames; DVD cell actually contains 696"
+   ],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 45.75584281407609,
+   "lastFrameOffset": -2,
+   "audioMaxDb": -24.5,
+   "frames": 696,
+   "expectedFrames": 696,
+   "sourceFrames": 696
+  },
+  {
+   "id": "decision-1-robin-cheats-death-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 158,
+   "expectedFrames": 158
+  },
+  {
+   "id": "decision-1-batman-saves-robin-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "decision-1-robin-dies-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 156,
+   "expectedFrames": 156
+  },
+  {
+   "id": "scene-decision-1-robin-cheats-death",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 56.26252981376233,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -0.0,
+   "frames": 9940,
+   "expectedFrames": 9940
+  },
+  {
+   "id": "credits-roll-1",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 53.30025542115312,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 52.95178017572588,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -8.2,
+   "frames": 3707,
+   "expectedFrames": 3707
+  },
+  {
+   "id": "credits-tail",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -4.6,
+   "frames": 517,
+   "expectedFrames": 517
+  },
+  {
+   "id": "scene-decision-1-batman-saves-robin",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.8181538559493,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.952081658044676,
+   "lastFrameOffset": -3,
+   "audioMaxDb": 0.0,
+   "frames": 2932,
+   "expectedFrames": 2932
+  },
+  {
+   "id": "decision-2",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 46.296864248525026,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -20.9,
+   "frames": 673,
+   "expectedFrames": 673
+  },
+  {
+   "id": "decision-2-catch-the-joker-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "decision-2-kill-the-joker-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "scene-decision-2-catch-the-joker",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.90102097504341,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.418419412172604,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -1.3,
+   "frames": 10737,
+   "expectedFrames": 10737
+  },
+  {
+   "id": "decision-3",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 45.96947510792188,
+   "lastFrameOffset": -1,
+   "audioMaxDb": -27.3,
+   "frames": 671,
+   "expectedFrames": 671
+  },
+  {
+   "id": "decision-3-spare-the-joker-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "decision-3-kill-the-joker-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "scene-decision-3-spare-the-joker",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.77228369905556,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.41421571550573,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -1.0,
+   "frames": 4509,
+   "expectedFrames": 4509
+  },
+  {
+   "id": "decision-4",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 46.11395060824997,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -39.3,
+   "frames": 672,
+   "expectedFrames": 672
+  },
+  {
+   "id": "decision-4-life-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 135,
+   "expectedFrames": 135
+  },
+  {
+   "id": "decision-4-death-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "scene-decision-4-life",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.42599675166385,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -1.5,
+   "frames": 4094,
+   "expectedFrames": 4094
+  },
+  {
+   "id": "credits-roll-2",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 50.103308981322485,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 49.71714359439815,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -8.2,
+   "frames": 3707,
+   "expectedFrames": 3707
+  },
+  {
+   "id": "scene-decision-4-death",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.7205758828096,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.42094372333907,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -1.3,
+   "frames": 2154,
+   "expectedFrames": 2154
+  },
+  {
+   "id": "scene-decision-3-kill-the-joker",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.41421571550573,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -2.9,
+   "frames": 4811,
+   "expectedFrames": 4811
+  },
+  {
+   "id": "scene-decision-2-kill-the-joker",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.411695310793085,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.0,
+   "frames": 6936,
+   "expectedFrames": 6936
+  },
+  {
+   "id": "decision-5",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 45.73432728383766,
+   "lastFrameOffset": -1,
+   "audioMaxDb": -29.0,
+   "frames": 673,
+   "expectedFrames": 673
+  },
+  {
+   "id": "decision-5-surrender-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "decision-5-attack-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "scene-decision-5-surrender",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.7205758828096,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 56.26252981376233,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -1.9,
+   "frames": 800,
+   "expectedFrames": 800
+  },
+  {
+   "id": "credits-roll-3",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 51.20303989892045,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 50.789351951989616,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -8.2,
+   "frames": 3707,
+   "expectedFrames": 3707
+  },
+  {
+   "id": "scene-decision-5-attack",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.75134501572264,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.42346950259994,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -0.0,
+   "frames": 5405,
+   "expectedFrames": 5405
+  },
+  {
+   "id": "decision-6",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 45.053808084923396,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -23.1,
+   "frames": 671,
+   "expectedFrames": 671
+  },
+  {
+   "id": "decision-6-the-unscarred-coin-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "decision-6-the-scarred-coin-stinger",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 99.0,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 99.0,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.5,
+   "frames": 134,
+   "expectedFrames": 134
+  },
+  {
+   "id": "scene-decision-6-the-unscarred-coin",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 56.53880053663222,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.45558957294669,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -2.1,
+   "frames": 3533,
+   "expectedFrames": 3533
+  },
+  {
+   "id": "credits-roll-4",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 50.23695226598622,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 49.96154688489508,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -8.2,
+   "frames": 3707,
+   "expectedFrames": 3707
+  },
+  {
+   "id": "scene-decision-6-the-scarred-coin",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 56.975979466971765,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 55.45558957294669,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -2.3,
+   "frames": 2218,
+   "expectedFrames": 2218
+  },
+  {
+   "id": "scene-decision-1-robin-dies",
+   "ok": true,
+   "notes": [],
+   "firstFramePSNR": 55.788741319388166,
+   "firstFrameOffset": 0,
+   "lastFramePSNR": 56.754750632074014,
+   "lastFrameOffset": -3,
+   "audioMaxDb": -3.7,
+   "frames": 28287,
+   "expectedFrames": 28287
+  }
+ ],
+ "transitions": [
+  {
+   "decision": "decision-1",
+   "choice": "decision-1-robin-cheats-death",
+   "chain": [
+    "decision-1",
+    "decision-1-robin-cheats-death-stinger",
+    "scene-decision-1-robin-cheats-death"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-1",
+   "choice": "decision-1-batman-saves-robin",
+   "chain": [
+    "decision-1",
+    "decision-1-batman-saves-robin-stinger",
+    "scene-decision-1-batman-saves-robin"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-1",
+   "choice": "decision-1-batman-saves-robin",
+   "chain": [
+    "decision-1",
+    "scene-decision-1-batman-saves-robin"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  },
+  {
+   "decision": "decision-1",
+   "choice": "decision-1-robin-dies",
+   "chain": [
+    "decision-1",
+    "decision-1-robin-dies-stinger",
+    "scene-decision-1-robin-dies"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-2",
+   "choice": "decision-2-catch-the-joker",
+   "chain": [
+    "decision-2",
+    "decision-2-catch-the-joker-stinger",
+    "scene-decision-2-catch-the-joker"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-2",
+   "choice": "decision-2-kill-the-joker",
+   "chain": [
+    "decision-2",
+    "decision-2-kill-the-joker-stinger",
+    "scene-decision-2-kill-the-joker"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-2",
+   "choice": "decision-2-kill-the-joker",
+   "chain": [
+    "decision-2",
+    "scene-decision-2-kill-the-joker"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  },
+  {
+   "decision": "decision-3",
+   "choice": "decision-3-spare-the-joker",
+   "chain": [
+    "decision-3",
+    "decision-3-spare-the-joker-stinger",
+    "scene-decision-3-spare-the-joker"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-3",
+   "choice": "decision-3-spare-the-joker",
+   "chain": [
+    "decision-3",
+    "scene-decision-3-spare-the-joker"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  },
+  {
+   "decision": "decision-3",
+   "choice": "decision-3-kill-the-joker",
+   "chain": [
+    "decision-3",
+    "decision-3-kill-the-joker-stinger",
+    "scene-decision-3-kill-the-joker"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-4",
+   "choice": "decision-4-life",
+   "chain": [
+    "decision-4",
+    "decision-4-life-stinger",
+    "scene-decision-4-life"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-4",
+   "choice": "decision-4-death",
+   "chain": [
+    "decision-4",
+    "decision-4-death-stinger",
+    "scene-decision-4-death"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-4",
+   "choice": "decision-4-death",
+   "chain": [
+    "decision-4",
+    "scene-decision-4-death"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  },
+  {
+   "decision": "decision-5",
+   "choice": "decision-5-surrender",
+   "chain": [
+    "decision-5",
+    "decision-5-surrender-stinger",
+    "scene-decision-5-surrender"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-5",
+   "choice": "decision-5-attack",
+   "chain": [
+    "decision-5",
+    "decision-5-attack-stinger",
+    "scene-decision-5-attack"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-5",
+   "choice": "decision-5-attack",
+   "chain": [
+    "decision-5",
+    "scene-decision-5-attack"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  },
+  {
+   "decision": "decision-6",
+   "choice": "decision-6-the-unscarred-coin",
+   "chain": [
+    "decision-6",
+    "decision-6-the-unscarred-coin-stinger",
+    "scene-decision-6-the-unscarred-coin"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-6",
+   "choice": "decision-6-the-scarred-coin",
+   "chain": [
+    "decision-6",
+    "decision-6-the-scarred-coin-stinger",
+    "scene-decision-6-the-scarred-coin"
+   ],
+   "ok": true,
+   "kind": "active"
+  },
+  {
+   "decision": "decision-6",
+   "choice": "decision-6-the-scarred-coin",
+   "chain": [
+    "decision-6",
+    "scene-decision-6-the-scarred-coin"
+   ],
+   "ok": true,
+   "kind": "timeout"
+  }
+ ]
+}

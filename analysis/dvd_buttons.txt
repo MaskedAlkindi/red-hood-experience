@@ -1,0 +1,62 @@
+===== VMGM
+===== VTS1 menu
+-- cell(vob,cid)=(2, 1) sectors 5-5 navpacks=1 btns=4 hl_s=11322 hl_e=4294967295 btn_end=4294967295 fosl=0 foac=0 vobu_s=11322
+     btn1 (340,39)-(380,50) auto=0 u1 d4 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 3
+     btn2 (397,282)-(420,336) auto=0 u2 d4 l3 r2  JumpVTS_PTT 2:1
+     btn3 (296,282)-(319,336) auto=0 u3 d4 l3 r2  JumpSS VMGM (pgc 54)
+     btn4 (339,365)-(378,396) auto=0 u2 d4 l3 r2  JumpSS VMGM (pgc 53)
+===== VTS2 menu
+-- cell(vob,cid)=(2, 1) sectors 5-78 navpacks=7 btns=8 hl_s=5400 hl_e=516600 btn_end=516600 fosl=0 foac=0 vobu_s=5400
+     btn1 (51,39)-(84,66) auto=0 u1 d1 l8 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 15
+     btn2 (90,39)-(123,66) auto=0 u2 d2 l1 r3  JumpSS VMGM (pgc 20)
+     btn3 (130,39)-(163,66) auto=0 u3 d3 l2 r4  JumpSS VMGM (pgc 19)
+     btn4 (171,39)-(204,66) auto=0 u4 d4 l3 r5  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 9
+     btn5 (212,39)-(245,66) auto=0 u5 d5 l4 r6  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 8
+     btn6 (253,39)-(286,66) auto=0 u6 d6 l5 r7  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 7
+     btn7 (295,39)-(328,66) auto=0 u7 d7 l6 r8  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 6
+     btn8 (333,39)-(366,66) auto=0 u8 d8 l7 r1  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 5
+-- cell(vob,cid)=(3, 2) sectors 4822-14925 navpacks=31 btns=3 hl_s=763200 hl_e=2421000 btn_end=2421000 fosl=0 foac=0 vobu_s=761400
+     btn1 (343,72)-(383,83) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 5
+     btn2 (417,350)-(443,418) auto=0 u2 d2 l3 r2  JumpSS VMGM (pgc 24)
+     btn3 (275,351)-(301,419) auto=0 u3 d3 l3 r2  JumpSS VMGM (pgc 23)
+-- cell(vob,cid)=(4, 2) sectors 19952-30078 navpacks=31 btns=3 hl_s=763200 hl_e=2428200 btn_end=2428200 fosl=0 foac=0 vobu_s=761400
+     btn1 (343,72)-(383,83) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 6
+     btn2 (417,350)-(443,418) auto=0 u2 d2 l3 r2  JumpSS VMGM (pgc 29)
+     btn3 (275,351)-(301,419) auto=0 u3 d3 l3 r2  JumpSS VMGM (pgc 28)
+-- cell(vob,cid)=(5, 2) sectors 35129-45255 navpacks=31 btns=3 hl_s=763200 hl_e=2424600 btn_end=2424600 fosl=0 foac=0 vobu_s=761400
+     btn1 (343,72)-(383,83) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 7
+     btn2 (415,346)-(441,414) auto=0 u2 d2 l3 r2  JumpSS VMGM (pgc 33)
+     btn3 (277,347)-(303,415) auto=0 u3 d3 l3 r2  JumpSS VMGM (pgc 32)
+-- cell(vob,cid)=(6, 2) sectors 50620-60385 navpacks=30 btns=3 hl_s=817200 hl_e=2421000 btn_end=2421000 fosl=0 foac=0 vobu_s=815400
+     btn1 (343,72)-(383,83) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 8
+     btn2 (415,346)-(441,414) auto=0 u2 d2 l3 r2  JumpSS VMGM (pgc 37)
+     btn3 (277,347)-(303,415) auto=0 u3 d3 l3 r2  JumpSS VMGM (pgc 36)
+-- cell(vob,cid)=(7, 2) sectors 65751-75539 navpacks=30 btns=3 hl_s=817200 hl_e=2428200 btn_end=2428200 fosl=0 foac=0 vobu_s=815400
+     btn1 (343,72)-(383,83) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 9
+     btn2 (417,351)-(443,419) auto=0 u2 d2 l3 r2  JumpSS VMGM (pgc 42)
+     btn3 (275,351)-(301,419) auto=0 u3 d3 l3 r2  JumpSS VMGM (pgc 41)
+-- cell(vob,cid)=(8, 2) sectors 81603-91550 navpacks=30 btns=4 hl_s=925200 hl_e=2547000 btn_end=2547000 fosl=0 foac=0 vobu_s=923400
+     btn1 (343,72)-(383,83) auto=0 u1 d4 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 10
+     btn2 (417,312)-(443,380) auto=0 u2 d4 l3 r2  JumpSS VMGM (pgc 49)
+     btn3 (275,312)-(301,380) auto=0 u3 d4 l3 r2  JumpSS VMGM (pgc 48)
+     btn4 (337,425)-(385,461) auto=0 u2 d4 l3 r2  JumpSS VMGM (pgc 47)
+-- cell(vob,cid)=(9, 2) sectors 93241-96626 navpacks=11 btns=4 hl_s=280922 hl_e=876722 btn_end=876722 fosl=0 foac=0 vobu_s=279122
+     btn1 (340,39)-(380,50) auto=0 u1 d4 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 11
+     btn2 (397,282)-(420,336) auto=0 u2 d4 l3 r2  JumpSS VMGM (pgc 56)
+     btn3 (296,282)-(319,336) auto=0 u3 d4 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 15
+     btn4 (339,365)-(378,396) auto=0 u2 d4 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 12
+-- cell(vob,cid)=(10, 2) sectors 98678-114418 navpacks=47 btns=1 hl_s=277200 hl_e=2824200 btn_end=2824200 fosl=0 foac=0 vobu_s=275400
+     btn1 (515,487)-(548,527) auto=0 u1 d1 l1 r1  JumpSS VMGM (pgc 56)
+-- cell(vob,cid)=(11, 1) sectors 114419-117938 navpacks=300 btns=4 hl_s=15853 hl_e=23743453 btn_end=23743453 fosl=0 foac=0 vobu_s=15853
+     btn1 (204,451)-(298,495) auto=0 u1 d4 l3 r2  JumpSS VMGM (pgc 59)
+     btn2 (341,453)-(395,495) auto=0 u2 d4 l1 r3  JumpSS VMGM (pgc 58)
+     btn3 (437,454)-(515,495) auto=0 u3 d4 l2 r1  JumpSS VMGM (pgc 57)
+     btn4 (238,518)-(482,548) auto=1 u4 d4 l4 r4  SetHL_BTNN s8 = 3072 (button 3), LinkPGCN 15
+-- cell(vob,cid)=(12, 1) sectors 117945-121464 navpacks=300 btns=3 hl_s=15785 hl_e=23743385 btn_end=23743385 fosl=0 foac=0 vobu_s=15785
+     btn1 (235,444)-(383,498) auto=0 u1 d3 l2 r2  JumpSS VMGM (pgc 61)
+     btn2 (421,452)-(478,496) auto=0 u2 d3 l1 r1  JumpSS VMGM (pgc 60)
+     btn3 (237,518)-(483,548) auto=1 u3 d3 l3 r3  SetHL_BTNN s8 = 2048 (button 2), LinkPGCN 15
+-- cell(vob,cid)=(13, 1) sectors 121471-124997 navpacks=300 btns=3 hl_s=16797 hl_e=23744397 btn_end=23744397 fosl=0 foac=0 vobu_s=16797
+     btn1 (234,514)-(305,553) auto=0 u1 d1 l3 r2  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 12
+     btn2 (332,514)-(382,553) auto=0 u2 d2 l1 r3  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 14
+     btn3 (412,518)-(482,553) auto=0 u3 d3 l2 r1  SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 13

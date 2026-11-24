@@ -1,0 +1,60 @@
+{
+  "_comment": "The ONLY hand-entered data: English translations of the Russian on-screen text of each DVD decision menu (VTS 2 menu PGCs), keyed by DVD node id and button number. Everything else (timing, targets, defaults, stingers, endings) is derived from the disc navigation by scripts/story/build_story.py. Labels were read from frames of each menu's button cell.",
+  "decisions": {
+    "VTSM2_PGC10": {
+      "title": "Robin will die.",
+      "prompt": "Because the Joker wants revenge. But you can save him.",
+      "original": { "title": "Робин умрёт.", "prompt": "Потому что Джокер хочет отомстить. Но вы можете спасти его." },
+      "buttons": {
+        "3": { "label": "Robin cheats death.", "original": "Робин обманет смерть." },
+        "2": { "label": "Batman saves Robin.", "original": "Бэтмен спасёт Робина." },
+        "4": { "label": "Robin dies.", "original": "Робин умрёт." }
+      }
+    },
+    "VTSM2_PGC9": {
+      "title": "Batman is dead.",
+      "prompt": "He left Robin at a crossroads. But you can guide him down the right path.",
+      "original": { "title": "Бэтмен умер", "prompt": "Оставив Робина на распутье. Но вы можете направить его по правильному пути." },
+      "buttons": {
+        "3": { "label": "Catch the Joker.", "original": "Поймать Джокера." },
+        "2": { "label": "Kill the Joker.", "original": "Убить Джокера." }
+      }
+    },
+    "VTSM2_PGC8": {
+      "title": "The Joker will die.",
+      "prompt": "Because the Red Hood wants revenge. But you can save him.",
+      "original": { "title": "Джокер умрёт", "prompt": "Потому что Красный Колпак хочет мести. Но вы можете спасти его." },
+      "buttons": {
+        "3": { "label": "Spare the Joker.", "original": "Пощадить Джокера." },
+        "2": { "label": "Kill the Joker.", "original": "Убить Джокера." }
+      }
+    },
+    "VTSM2_PGC6": {
+      "title": "The Joker is dead.",
+      "prompt": "Because Jason wanted revenge. But you can bring him to justice.",
+      "original": { "title": "Джокер умер", "prompt": "Потому что Джейсон хотел отомстить. Но вы можете привлечь его к ответственности." },
+      "buttons": {
+        "3": { "label": "Surrender.", "original": "Сдаться." },
+        "2": { "label": "Attack.", "original": "Напасть." }
+      }
+    },
+    "VTSM2_PGC7": {
+      "title": "Save Batman.",
+      "prompt": "The Red Hood must fight him in a battle to the death.",
+      "original": { "title": "Спасти Бэтмена", "prompt": "Красный Колпак должен сразиться с ним в битве не на жизнь, а на смерть." },
+      "buttons": {
+        "3": { "label": "Life.", "original": "Жизнь." },
+        "2": { "label": "Death.", "original": "Смерть." }
+      }
+    },
+    "VTSM2_PGC5": {
+      "title": "Red Robin will die.",
+      "prompt": "In Two-Face's gamble. But you can choose the coin.",
+      "original": { "title": "Красный Робин умрёт", "prompt": "В азартной игре Двуликого. Но ты можешь выбрать монету" },
+      "buttons": {
+        "3": { "label": "The unscarred coin.", "original": "(левая монета — без шрамов)" },
+        "2": { "label": "The scarred coin.", "original": "(правая монета — со шрамами)" }
+      }
+    }
+  }
+}

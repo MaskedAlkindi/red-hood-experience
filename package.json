@@ -1,0 +1,34 @@
+{
+  "name": "red-hood-experience",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local interactive player for Batman: Death in the Family (2020), built from the owner's DVD.",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "typecheck": "tsc --noEmit",
+    "dvd:analyze": "python scripts/dvd/dump_nav.py && python scripts/dvd/dump_buttons.py && python scripts/dvd/explore.py",
+    "story:build": "python scripts/story/build_story.py",
+    "media:build": "python scripts/media/build_media.py",
+    "pipeline": "npm run dvd:analyze && npm run story:build && npm run media:build",
+    "validate": "node --experimental-strip-types scripts/validate/validate-story.ts",
+    "test:media": "python scripts/validate/test_media_transitions.py"
+  },
+  "type": "module",
+  "dependencies": {
+    "lucide-react": "^1.79.0",
+    "motion": "^14.14.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2"
+  }
+}

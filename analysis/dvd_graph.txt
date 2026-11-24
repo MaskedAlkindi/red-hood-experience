@@ -1,0 +1,152 @@
+start: VTSM2_PGC15  (via FP:PGC0 > VMGM:PGC62 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC15)
+
+[TT1_PGC2] dur=504.20s ends=post cells: v1c1(98.76s), v1c2(405.44s)
+    END -> VTSM2_PGC10   via VMGM:PGC51 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC10
+
+[TT1_PGC3] dur=403.92s ends=post cells: v2c1(6.32s), v3c1(397.60s)
+    END -> TT2_PGC2   via VMGM:PGC45 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC2
+
+[TT1_PGC4] dur=1137.72s ends=post cells: v4c1(6.24s), v25c1(1131.48s)
+    END -> TT2_PGC2   via VMGM:PGC45 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC2
+
+[TT1_PGC5] dur=122.64s ends=post cells: v5c1(5.36s), v6c1(117.28s)
+    END -> VTSM2_PGC9   via VMGM:PGC44 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC9
+
+[TT1_PGC5_PG2] dur=117.28s ends=post cells: v6c1(117.28s)
+    END -> VTSM2_PGC9   via VMGM:PGC44 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC9
+
+[TT1_PGC6] dur=282.80s ends=post cells: v7c1(5.36s), v8c1(277.44s)
+    END -> VTSM2_PGC6   via VMGM:PGC40 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC6
+
+[TT1_PGC6_PG2] dur=277.44s ends=post cells: v8c1(277.44s)
+    END -> VTSM2_PGC6   via VMGM:PGC40 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC6
+
+[TT1_PGC7] dur=434.84s ends=post cells: v9c1(5.36s), v10c1(429.48s)
+    END -> VTSM2_PGC8   via VMGM:PGC39 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC8
+
+[TT1_PGC8] dur=185.72s ends=post cells: v11c1(5.36s), v12c1(180.36s)
+    END -> VTSM2_PGC7   via VMGM:PGC35 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC7
+
+[TT1_PGC8_PG2] dur=180.36s ends=post cells: v12c1(180.36s)
+    END -> VTSM2_PGC7   via VMGM:PGC35 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC7
+
+[TT1_PGC9] dur=197.80s ends=post cells: v13c1(5.36s), v14c1(192.44s)
+    END -> VTSM2_PGC7   via VMGM:PGC35 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC7
+
+[TT1_PGC10] dur=91.52s ends=post cells: v15c1(5.36s), v16c1(86.16s)
+    END -> TT2_PGC4   via VMGM:PGC31 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC4
+
+[TT1_PGC10_PG2] dur=86.16s ends=post cells: v16c1(86.16s)
+    END -> TT2_PGC4   via VMGM:PGC31 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC4
+
+[TT1_PGC11] dur=37.36s ends=post cells: v17c1(5.36s), v18c1(32.00s)
+    END -> TT2_PGC5   via VMGM:PGC27 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC5
+
+[TT1_PGC12] dur=221.56s ends=post cells: v19c1(5.36s), v20c1(216.20s)
+    END -> VTSM2_PGC5   via VMGM:PGC26 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC5
+
+[TT1_PGC12_PG2] dur=216.20s ends=post cells: v20c1(216.20s)
+    END -> VTSM2_PGC5   via VMGM:PGC26 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC5
+
+[TT1_PGC13] dur=146.68s ends=post cells: v21c1(5.36s), v22c1(141.32s)
+    END -> TT2_PGC6   via VMGM:PGC22 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC6
+
+[TT1_PGC14] dur=94.08s ends=post cells: v23c1(5.36s), v24c1(88.72s)
+    END -> TT2_PGC7   via VMGM:PGC21 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC7
+
+[TT1_PGC14_PG2] dur=88.72s ends=post cells: v24c1(88.72s)
+    END -> TT2_PGC7   via VMGM:PGC21 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC7
+
+[TT1_PGC16] dur=169.16s ends=post cells: v26c1(5.40s), v27c1(163.76s)
+    END -> TT2_PGC3   via VMGM:PGC17 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC3
+
+[TT2_PGC2] dur=148.28s ends=post cells: v1c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC3] dur=148.28s ends=post cells: v2c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC4] dur=148.28s ends=post cells: v2c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC5] dur=148.28s ends=post cells: v3c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC6] dur=148.28s ends=post cells: v4c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC7] dur=148.28s ends=post cells: v4c1(148.28s)
+    END -> TT2_PGC8   via VMGM:PGC46 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > TT2:PGC8
+
+[TT2_PGC8] dur=20.68s ends=post cells: v5c1(20.68s)
+    END -> VTSM2_PGC15   via VMGM:PGC18 > VTSM2:PGC1 > VTSM2:PGC3 > VTSM2:PGC2 > VTSM2:PGC15
+
+[VTSM1_PGC3] dur=0.40s ends=still cells: v2c1(0.40s)
+    btn1 [340, 39, 380, 50] -> VTSM1_PGC3   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 3)
+    btn2 [397, 282, 420, 336] -> TT1_PGC2   (JumpVTS_PTT 2:1)
+    btn3 [296, 282, 319, 336] -> VTSM2_PGC15   (JumpSS VMGM (pgc 54))
+    btn4 [339, 365, 378, 396] -> VTSM2_PGC12   (JumpSS VMGM (pgc 53))
+
+[VTSM2_PGC5] dur=26.84s ends=post cells: v3c1(8.40s), v3c2(18.44s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC5   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 5)
+    btn2 [417, 350, 443, 418] -> TT1_PGC14   (JumpSS VMGM (pgc 24))
+    btn3 [275, 351, 301, 419] -> TT1_PGC13   (JumpSS VMGM (pgc 23))
+    END -> TT1_PGC14_PG2   via VMGM:PGC25 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC14
+
+[VTSM2_PGC6] dur=26.92s ends=post cells: v4c1(8.40s), v4c2(18.52s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC6   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 6)
+    btn2 [417, 350, 443, 418] -> TT1_PGC12   (JumpSS VMGM (pgc 29))
+    btn3 [275, 351, 301, 419] -> TT1_PGC11   (JumpSS VMGM (pgc 28))
+    END -> TT1_PGC12_PG2   via VMGM:PGC30 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC12
+
+[VTSM2_PGC7] dur=26.88s ends=post cells: v5c1(8.40s), v5c2(18.48s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC7   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 7)
+    btn2 [415, 346, 441, 414] -> TT1_PGC10   (JumpSS VMGM (pgc 33))
+    btn3 [277, 347, 303, 415] -> TT1_PGC16   (JumpSS VMGM (pgc 32))
+    END -> TT1_PGC10_PG2   via VMGM:PGC34 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC10
+
+[VTSM2_PGC8] dur=26.84s ends=post cells: v6c1(9.00s), v6c2(17.84s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC8   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 8)
+    btn2 [415, 346, 441, 414] -> TT1_PGC9   (JumpSS VMGM (pgc 37))
+    btn3 [277, 347, 303, 415] -> TT1_PGC8   (JumpSS VMGM (pgc 36))
+    END -> TT1_PGC8_PG2   via VMGM:PGC38 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC8
+
+[VTSM2_PGC9] dur=26.92s ends=post cells: v7c1(9.00s), v7c2(17.92s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC9   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 9)
+    btn2 [417, 351, 443, 419] -> TT1_PGC6   (JumpSS VMGM (pgc 42))
+    btn3 [275, 351, 301, 419] -> TT1_PGC7   (JumpSS VMGM (pgc 41))
+    END -> TT1_PGC6_PG2   via VMGM:PGC43 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC6
+
+[VTSM2_PGC10] dur=28.24s ends=post cells: v8c1(10.20s), v8c2(18.04s)
+    btn1 [343, 72, 383, 83] -> VTSM2_PGC10   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 10)
+    btn2 [417, 312, 443, 380] -> TT1_PGC5   (JumpSS VMGM (pgc 49))
+    btn3 [275, 312, 301, 380] -> TT1_PGC3   (JumpSS VMGM (pgc 48))
+    btn4 [337, 425, 385, 461] -> TT1_PGC4   (JumpSS VMGM (pgc 47))
+    END -> TT1_PGC5_PG2   via VMGM:PGC50 > VTSM1:PGC1 > VTSM1:PGC2 > TT1:PGC5
+
+[VTSM2_PGC11] dur=9.64s ends=post cells: v9c1(3.00s), v9c2(6.64s)
+    btn1 [340, 39, 380, 50] -> VTSM2_PGC11   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 11)
+    btn2 [397, 282, 420, 336] -> TT1_PGC2   (JumpSS VMGM (pgc 56))
+    btn3 [296, 282, 319, 336] -> VTSM2_PGC15   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 15)
+    btn4 [339, 365, 378, 396] -> VTSM2_PGC12   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 12)
+    END -> VTSM1_PGC3   via VMGM:PGC55 > VTSM1:PGC1 > VTSM1:PGC2 > VTSM1:PGC3
+
+[VTSM2_PGC12] dur=31.32s ends=post cells: v10c1(3.00s), v10c2(28.32s)
+    btn1 [515, 487, 548, 527] -> TT1_PGC2   (JumpSS VMGM (pgc 56))
+    END -> VTSM2_PGC11   via VTSM2:PGC11
+
+[VTSM2_PGC13] dur=263.64s ends=loop cells: v11c1(263.64s)
+    btn1 [204, 451, 298, 495] -> VTSM2_PGC13   (JumpSS VMGM (pgc 59))
+    btn2 [341, 453, 395, 495] -> VTSM2_PGC13   (JumpSS VMGM (pgc 58))
+    btn3 [437, 454, 515, 495] -> VTSM2_PGC13   (JumpSS VMGM (pgc 57))
+    btn4 [238, 518, 482, 548] -> VTSM2_PGC15   (SetHL_BTNN s8 = 3072 (button 3), LinkPGCN 15)
+
+[VTSM2_PGC14] dur=263.64s ends=loop cells: v12c1(263.64s)
+    btn1 [235, 444, 383, 498] -> VTSM2_PGC14   (JumpSS VMGM (pgc 61))
+    btn2 [421, 452, 478, 496] -> VTSM2_PGC14   (JumpSS VMGM (pgc 60))
+    btn3 [237, 518, 483, 548] -> VTSM2_PGC15   (SetHL_BTNN s8 = 2048 (button 2), LinkPGCN 15)
+
+[VTSM2_PGC15] dur=263.64s ends=loop cells: v13c1(263.64s)
+    btn1 [234, 514, 305, 553] -> VTSM2_PGC12   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 12)
+    btn2 [332, 514, 382, 553] -> VTSM2_PGC14   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 14)
+    btn3 [412, 518, 482, 553] -> VTSM2_PGC13   (SetHL_BTNN s8 = 1024 (button 1), LinkPGCN 13)
