@@ -7,9 +7,13 @@ next-env.d.ts
 
 # original DVD files and processed media (large, personal copies - never commit)
 movie files/
+VIDEO_TS/
 *.VOB
 *.IFO
 *.BUP
+*.iso
+*.img
+*.mkv
 public/media/
 analysis/media_build.log
 analysis/ffbin.txt
@@ -19,3 +23,6 @@ analysis/ffbin.txt
 *.log
 .env*
 __pycache__/
+
+# packaged builds for upload
+deploy/

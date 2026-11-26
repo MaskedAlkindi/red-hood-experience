@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "sw
 
 export const metadata: Metadata = {
   title: "Death in the Family — Interactive Experience",
-  description: "A local interactive player for Batman: Death in the Family (2020), built from your own DVD.",
+  description: "Interactive player for the Death in the Family DVD.",
   icons: { icon: "/icon.svg" },
 };
 

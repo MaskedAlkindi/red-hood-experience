@@ -2,7 +2,7 @@
   "name": "red-hood-experience",
   "version": "1.0.0",
   "private": true,
-  "description": "Local interactive player for Batman: Death in the Family (2020), built from the owner's DVD.",
+  "description": "Interactive player for the Batman: Death in the Family DVD. The film is not included.",
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
